@@ -4,6 +4,8 @@
 This project was built by me using HTML, CSS and JS. It will be added to my GitHub repo as one of my projects.
 
 
+[Live Repl Deployment](https://fork-this-javascript-course-by-clever-programmer.ray-xavier-2021.repl.co/projects/rockpaperscissors/exercise/index.html)
+
 ![Rock, Paper, Scissors](rps.png)
 
 
